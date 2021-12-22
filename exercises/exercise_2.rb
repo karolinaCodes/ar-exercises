@@ -5,8 +5,8 @@ puts "Exercise 2"
 puts "----------"
 
 # Your code goes here ...
-@store1 = User.find_by(id: 1)
-@store2 = User.find_by(id: 2)
+@store1 = Store.find_by(id: 1)
+@store2 = Store.find_by(id: 2)
 
 # update the first stores' name
-@store1.update = (name: "Toronto")
+@store1.update(name: 'Toronto')
