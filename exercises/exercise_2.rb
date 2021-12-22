@@ -8,4 +8,5 @@ puts "----------"
 @store1 = User.find_by(id: 1)
 @store2 = User.find_by(id: 2)
 
+# update the first stores' name
 @store1.update = (name: "Toronto")
