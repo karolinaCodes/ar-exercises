@@ -1,6 +1,6 @@
 # Active Record Exercises
 
-*Repository cloned for Lighthouse Labs
+*Repository cloned from Lighthouse Labs*
 
 ## Introduction
 
