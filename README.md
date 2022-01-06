@@ -1,5 +1,7 @@
 # Active Record Exercises
 
+*Repository cloned for Lighthouse Labs
+
 ## Introduction
 
 You'll find that this project has two Active Record "models" (classes):
